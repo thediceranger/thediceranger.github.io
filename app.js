@@ -10,7 +10,7 @@ var config = {
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LflCiETAAAAAHGzpR7MDquBh0vj33qVA8ME_1hk',  // <----- EDIT ME!
-  redirect_uri: 'http://hyperdice.pw/',
+  redirect_uri: 'http://thediceranger.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: 'https://socket.moneypot.com',
